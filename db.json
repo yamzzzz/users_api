@@ -1,12 +1,63 @@
-
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"users": [{
+			"id": 1,
+			"name": "Percy Jackson",
+			"email": "percy@camphalfblood.gr"
+		},
+		{
+			"id": 2,
+			"name": "Nico D'Angelo",
+			"email": "nico@camphalfblood.gr"
+		},
+		{
+			"id": 3,
+			"name": "Annabeth Chase",
+			"email": "annabeth@camphalfblood.gr"
+		},
+		{
+			"id": 4,
+			"name": "Bianca D'Angelo",
+			"email": "bianca@camphalfblood.gr"
+		},
+		{
+			"id": 5,
+			"name": "Grover",
+			"email": "grover@camphalfblood.gr"
+		},
+		{
+			"id": 6,
+			"name": "Reyna",
+			"email": "reyna@campjupiter.gr"
+		},
+		{
+			"id": 7,
+			"name": "Will Solace",
+			"email": "will@camphalfblood.gr"
+		},
+		{
+			"id": 8,
+			"name": "Leo Valdez",
+			"email": "leo@camphalfblood.gr"
+		},
+		{
+			"id": 9,
+			"name": "Silena",
+			"email": "silena@camphalfblood.gr"
+		},
+		{
+			"id": 10,
+			"name": "Jason Grace",
+			"email": "jason@camphalfblood.gr"
+		},
+		{
+			"id": 11,
+			"name": "Luke Castellan",
+			"email": "luke@camphalfblood.gr"
+		},
+		{
+			"id": 12,
+			"name": "Piper",
+			"email": "piper@camphalfblood.gr"
+		}
+	]
 }
