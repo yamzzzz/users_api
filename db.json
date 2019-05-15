@@ -2,62 +2,62 @@
 	"users": [{
 			"id": 1,
 			"name": "Percy Jackson",
-			"email": "percy@camphalfblood.gr"
+			"email": "percy@camphalfblood.com"
 		},
 		{
 			"id": 2,
 			"name": "Nico D'Angelo",
-			"email": "nico@camphalfblood.gr"
+			"email": "nico@camphalfblood.com"
 		},
 		{
 			"id": 3,
 			"name": "Annabeth Chase",
-			"email": "annabeth@camphalfblood.gr"
+			"email": "annabeth@camphalfblood.com"
 		},
 		{
 			"id": 4,
 			"name": "Bianca D'Angelo",
-			"email": "bianca@camphalfblood.gr"
+			"email": "bianca@camphalfblood.com"
 		},
 		{
 			"id": 5,
 			"name": "Grover",
-			"email": "grover@camphalfblood.gr"
+			"email": "grover@camphalfblood.com"
 		},
 		{
 			"id": 6,
 			"name": "Reyna",
-			"email": "reyna@campjupiter.gr"
+			"email": "reyna@campjupiter.com"
 		},
 		{
 			"id": 7,
 			"name": "Will Solace",
-			"email": "will@camphalfblood.gr"
+			"email": "will@camphalfblood.com"
 		},
 		{
 			"id": 8,
 			"name": "Leo Valdez",
-			"email": "leo@camphalfblood.gr"
+			"email": "leo@camphalfblood.com"
 		},
 		{
 			"id": 9,
 			"name": "Silena",
-			"email": "silena@camphalfblood.gr"
+			"email": "silena@camphalfblood.com"
 		},
 		{
 			"id": 10,
 			"name": "Jason Grace",
-			"email": "jason@camphalfblood.gr"
+			"email": "jason@camphalfblood.com"
 		},
 		{
 			"id": 11,
 			"name": "Luke Castellan",
-			"email": "luke@camphalfblood.gr"
+			"email": "luke@camphalfblood.com"
 		},
 		{
 			"id": 12,
 			"name": "Piper",
-			"email": "piper@camphalfblood.gr"
+			"email": "piper@camphalfblood.com"
 		}
 	]
 }
